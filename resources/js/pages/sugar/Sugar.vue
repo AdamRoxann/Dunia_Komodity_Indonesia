@@ -27,12 +27,14 @@
     <section class="service-v2-sec service-inner-sec section-padding">
       <div class="container">
         <div class="row">
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-3 col-md-4 wow fadeInLeft"
+            data-wow-duration="0.5s"
+            data-wow-delay="200ms">
             <div class="service-sidebar">
               <div class="widgets">
                 <h3 class="widget-title"><span></span> Product</h3>
                 <ul class="services-link-item">
-                  <li class="active"><a href="#">Our Coconut Sugar</a></li>
+                  <li class="active"><a style="background-color: #66442C" class="no_dropdown" href="#">Our Coconut Sugar</a></li>
                   <li>
                     <router-link :to="{ name: 'sugarblock' }">
                       Coconut Sugar Block</router-link
@@ -78,13 +80,15 @@
             <!-- srvice sidebar -->
           </div>
           <!-- col end -->
-          <div class="col-lg-9 col-md-8">
+          <div class="col-lg-9 col-md-8 wow fadeInDown"
+            data-wow-duration="1.0s"
+            data-wow-delay="200ms">
             <div class="row">
               <div class="col-lg-4 col-md-6">
                 <div class="single-services-item">
                   <router-link :to="{ name: 'sugarblock' }">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/coconut_sugar_choice.PNG"
                       alt=""
                     />
@@ -100,7 +104,7 @@
                 <div class="single-services-item">
                   <router-link :to="{ name: 'palmsugar' }">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/palm_sugar_choice.PNG"
                       alt=""
                     />

@@ -25,8 +25,7 @@
                                     </a>
                                 </div>
                                 <p>
-                                    Indonesian Coffee, Spices and Coconut Sugar
-                                    Commodity.
+                                    Indonesian Coffee and Coconut Sugar Specialist.
                                 </p>
                                 <ul class="footer-social">
                                     <li>

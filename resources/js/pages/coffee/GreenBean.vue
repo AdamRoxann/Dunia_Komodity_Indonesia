@@ -30,7 +30,9 @@
     <section class="service-v2-sec service-inner-sec section-padding">
       <div class="container">
         <div class="row">
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-3 col-md-4 wow fadeInLeft"
+            data-wow-duration="0.5s"
+            data-wow-delay="200ms">
             <div class="service-sidebar">
               <div class="widgets">
                 <h3 class="widget-title"><span></span> Product</h3>
@@ -124,13 +126,15 @@
             <!-- srvice sidebar -->
           </div>
           <!-- col end -->
-          <div class="col-lg-9 col-md-8">
+          <div class="col-lg-9 col-md-8 wow fadeInDown"
+            data-wow-duration="1.0s"
+            data-wow-delay="200ms">
             <div class="row">
               <div class="col-lg-4 col-md-6">
                 <div class="single-services-item">
                   <router-link :to="{name: 'gayo'}">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/arabica_gayo_choice.jpeg"
                       alt=""
                     />
@@ -146,7 +150,7 @@
                 <div class="single-services-item">
                   <router-link :to="{name: 'lintong'}">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/arabica_lintong_choice.jpeg"
                       alt=""
                     />
@@ -162,7 +166,7 @@
                 <div class="single-services-item">
                   <router-link :to="{name: 'kerinci'}">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/arabica_kerinci_choice.jpeg"
                       alt=""
                     />
@@ -178,7 +182,7 @@
                 <div class="single-services-item">
                   <router-link :to="{name: 'sidikalang'}">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/services/service_style_8.jpg"
                       alt=""
                     />
@@ -194,7 +198,7 @@
                 <div class="single-services-item">
                   <router-link :to="{name: 'mandailing'}">
                     <img
-                      class="products-detail-images"
+                      class="products-detail-images zoom"
                       src="/assets/images/services/service_style_8.jpg"
                       alt=""
                     />

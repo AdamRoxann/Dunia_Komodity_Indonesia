@@ -35,7 +35,7 @@
                     <img src="/assets/images/logo.png" alt="logo">
                 </a>
             </div>
-                <b class="py-5 mx-auto" style="font-size: 30px; color: black; font-family: 'Poppins', sans-serif; font-weight: 400; float: right">Indonesian Coffee, Spices and Coconut Sugar Commodity</b>
+                <b class="py-5 mx-auto" style="font-size: 30px; color: black; font-family: 'Poppins', sans-serif; font-weight: 400; float: right">Indonesian Coffee and Coconut Sugar Specialist</b>
         </div>
     </div>
 	<div class="container">
