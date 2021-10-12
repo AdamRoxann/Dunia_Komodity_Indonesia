@@ -1,13 +1,14 @@
 <template>
   <div>
     <section class="xs-banner-sec xs-banner-v2-sec owl-carousel banner-slider">
-      <div
-        class="banner-slider-item banner-item1" id="banner">
+      <div class="banner-slider-item banner-item1" id="banner">
         <div class="slider-table">
           <div class="slider-table-cell">
-            <div class="container wow fadeInUp"
-            data-wow-duration="1.5s"
-            data-wow-delay="300ms" >
+            <div
+              class="container wow fadeInUp"
+              data-wow-duration="1.5s"
+              data-wow-delay="300ms"
+            >
               <div class="col-lg-10 offset-lg-1">
                 <div class="banner-content text-center">
                   <h2>
@@ -38,9 +39,11 @@
     <!-- start about section -->
     <section class="about-v2-sec section-padding about-sec">
       <div class="container">
-        <div class="row wow fadeInUp"
-            data-wow-duration="1.5s"
-            data-wow-delay="300ms" >
+        <div
+          class="row wow fadeInUp"
+          data-wow-duration="1.5s"
+          data-wow-delay="300ms"
+        >
           <div class="col-lg-12">
             <div class="section-title-item section-title-v2-item">
               <h2 class="section-title">
@@ -77,9 +80,11 @@
                     </a> -->
             </div>
           </div>
-          <div class="col-lg-12 col-md-10 wow fadeInUp"
+          <div
+            class="col-lg-12 col-md-10 wow fadeInUp"
             data-wow-duration="1.5s"
-            data-wow-delay="300ms">
+            data-wow-delay="300ms"
+          >
             <div class="about-tabs-item">
               <div class="tab-content" id="v-pills-tabContent">
                 <div
@@ -102,7 +107,7 @@
                       <div class="about-tabs-content">
                         <!-- <h3>Planting & Growth</h3> -->
                         <p style="text-align: justify">
-                          We are supplier from Indonesia whose focusing on
+                          <!-- We are supplier from Indonesia whose focusing on
                           <b>Coffee Bean & Coconut Sugar</b>.<br />
                           We are not only concern about tasty products, but the
                           most important thing that we concerned is healthy
@@ -110,7 +115,24 @@
                           Depends on people's needs nowadays, healthy becomes a
                           priority, not just a side option. We guarantee that we
                           are not just providing tasty products, but also
-                          healthy at the same time
+                          healthy at the same time -->
+                          We are supplier from Indonesia that focuses on
+                          agricultural products, such as
+                          <b>Coffee Bean, Coconut Sugar, and Spices.</b>
+                          Since hundreds or even thousands of years ago,
+                          Indonesia was well known for Its natural wealth.
+                          Supported by our geographical condition, land contour,
+                          fertile soil, conducive tropical climate, these are
+                          very ideal to maximizing the yields of agricultural
+                          products from Indonesia both in quality and quantity.<br><br>
+                          Collaborate with many farmers, we have a mission for
+                          not only run a profitable business, but more important
+                          is to deliver Indonesia's natural wealth to the world,
+                          and helping to maintain and improve the prosperity of
+                          Indonesian farmers who deserve to be enriched by their
+                          homeland. And of course, to provide the best services
+                          and products for our valued customers and business
+                          partners.
                         </p>
                         <!-- <ul>
                                             <li>
@@ -130,7 +152,9 @@
                                                 Subdue unto wherein dry man heaven.
                                             </li>
                                         </ul> -->
-                        <a href="/contact" class="xs-btn xs-v2-btn">Learn More</a>
+                        <a href="/contact" class="xs-btn xs-v2-btn"
+                          >Learn More</a
+                        >
                       </div>
                     </div>
                   </div>
@@ -144,10 +168,7 @@
                   <div class="row">
                     <div class="col-md-5">
                       <div class="about-tabs-img">
-                        <img
-                          src="/assets/images/about/about_1.jpg"
-                          alt=""
-                        />
+                        <img src="/assets/images/about/about_1.jpg" alt="" />
                       </div>
                     </div>
                     <div class="col-md-7 align-self-center">
@@ -191,10 +212,7 @@
                   <div class="row">
                     <div class="col-md-5">
                       <div class="about-tabs-img">
-                        <img
-                          src="/assets/images/about/about_1.jpg"
-                          alt=""
-                        />
+                        <img src="/assets/images/about/about_1.jpg" alt="" />
                       </div>
                     </div>
                     <div class="col-md-7 align-self-center">
@@ -253,9 +271,12 @@
               </a>
             </div>
           </div>
-          <div class="col-lg-5 xs-padding-0 wow fadeInUp"
+          <div
+            class="col-lg-5 xs-padding-0 wow fadeInUp"
             data-wow-duration="1.5s"
-            data-wow-delay="300ms" id="quote">
+            data-wow-delay="300ms"
+            id="quote"
+          >
             <div class="call-to-action-v2">
               <div class="call-back-content">
                 <h3>
@@ -351,24 +372,31 @@
         <!-- row end-->
 
         <div class="xs-portfolio-grid grid">
-          <div class="xs-portfolio-grid-item category1 grid-item all wow fadeInLeft"
+          <div
+            class="
+              xs-portfolio-grid-item
+              category1
+              grid-item
+              all
+              wow
+              fadeInLeft
+            "
             data-wow-duration="1.5s"
-            data-wow-delay="300ms">
+            data-wow-delay="300ms"
+          >
             <a
-              href="#popup_1"
-              class="xs-single-portfolio-item xs-image-popup"
-              data-effect="mfp-zoom-in"
+              href="greenbeans"
             >
               <img
                 class="our-product-images"
                 src="/assets/images/arabica_gayo.jpeg"
-                alt=""
+                alt="" style="height: 490px;"
               />
               <div class="single-project-content">
                 <div class="xs-image-popup-icon">
                   <i class="icon icon-plus"></i>
                 </div>
-                <h3 class="xs-single-title">Planting</h3>
+                <h3 class="xs-single-title">Coffee Beans</h3>
                 <p>
                   Together also created. Meat winged seas waters herb saw he.
                   Second female void.
@@ -445,18 +473,24 @@
           </div>
           <!-- .xs-portfolio-grid-item END -->
 
-          <div class="xs-portfolio-grid-item category2 grid-item all wow fadeInDown"
+          <!-- <div
+            class="
+              xs-portfolio-grid-item
+              category2
+              grid-item
+              all
+              wow
+              fadeInDown
+            "
             data-wow-duration="1.5s"
-            data-wow-delay="300ms">
+            data-wow-delay="300ms"
+          >
             <a
               href="#popup_2"
               class="xs-single-portfolio-item xs-image-popup"
               data-effect="mfp-zoom-in"
             >
-              <img
-                src="/assets/images/our-project/project_3.jpg"
-                alt=""
-              />
+              <img src="/assets/images/spices_potrait.jpg" alt="" />
               <div class="single-project-content">
                 <div class="xs-image-popup-icon">
                   <i class="icon icon-plus"></i>
@@ -467,7 +501,7 @@
                   Second female void.
                 </p>
               </div> </a
-            ><!-- .xs-single-portfolio-item END -->
+            >
             <div id="popup_2" class="container xs-gallery-popup-item mfp-hide">
               <div class="row">
                 <div class="col-lg-5 xs-padding-0">
@@ -535,25 +569,127 @@
                 </div>
               </div>
             </div>
-          </div>
-          <!-- .xs-portfolio-grid-item END -->
-          <div class="xs-portfolio-grid-item category3 grid-item all wow fadeInRight"
+          </div> -->
+          <div
+            class="
+              xs-portfolio-grid-item
+              category1
+              grid-item
+              all
+              wow
+              fadeInLeft
+            "
             data-wow-duration="1.5s"
-            data-wow-delay="300ms">
+            data-wow-delay="300ms"
+          >
             <a
-              href="#popup_3"
-              class="xs-single-portfolio-item xs-image-popup"
-              data-effect="mfp-zoom-in"
+              href="/spices"
             >
               <img
-                src="/assets/images/our-project/project_2.jpg"
-                alt=""
+                class="our-product-images"
+                src="/assets/images/spices_potrait.jpg"
+                alt="" style="height: 490px; object-fit: cover"
               />
               <div class="single-project-content">
                 <div class="xs-image-popup-icon">
                   <i class="icon icon-plus"></i>
                 </div>
-                <h3 class="xs-single-title">Planting</h3>
+                <h3 class="xs-single-title">Spices</h3>
+                <p>
+                  Together also created. Meat winged seas waters herb saw he.
+                  Second female void.
+                </p>
+              </div> </a
+            ><!-- .xs-single-portfolio-item END -->
+            <div id="popup_1" class="container xs-gallery-popup-item mfp-hide">
+              <div class="row">
+                <div class="col-lg-5 xs-padding-0">
+                  <div class="xs-popup-img">
+                    <img
+                      src="/assets/images/spices_potrait.jpg"
+                      alt=""
+                    />
+                  </div>
+                </div>
+                <div class="col-lg-7">
+                  <div class="xs-popup-content">
+                    <h2 class="hidden-title">Project info</h2>
+                    <h3>Garden Caring</h3>
+                    <div class="row">
+                      <div class="col-lg-5">
+                        <ul class="xs-popup-left-content">
+                          <li>
+                            <i class="icon icon-calendar-full"></i>
+                            <label>Project date</label>
+                            <span>22 jan 2018</span>
+                          </li>
+                          <li>
+                            <i class="icon icon-tags"></i>
+                            <label>Category</label>
+                            <span>Garden care, Garden</span>
+                          </li>
+                          <li>
+                            <i class="icon icon-user2"></i>
+                            <label>Client</label>
+                            <span>Mr. Jordan, Newyork</span>
+                          </li>
+                          <li>
+                            <i class="icon icon-invest"></i>
+                            <label>Project value</label>
+                            <span>$ 500</span>
+                          </li>
+                          <li>
+                            <i class="icon icon-map-marker2"></i>
+                            <label>Location</label>
+                            <span>76/A, Green lawn, Newyork City </span>
+                          </li>
+                        </ul>
+                      </div>
+                      <div class="col-lg-7">
+                        <div class="xs-popup-right-content">
+                          <p>
+                            Darkness dominion dominion her body creature appear
+                            make replenish. Bring shall him waters saw creepeth
+                            creepeth land divided.
+                          </p>
+                          <blockquote>
+                            “Each which life god all living form fruitful their
+                            fowl shed a stars he left”
+                          </blockquote>
+                          <p>
+                            Fowl she'd a stars he let. Creepeth deep sixth you
+                            is signs creature. Earth divide great whales.
+                          </p>
+                          <a href="#" class="xs-btn">PROJECT LINK</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- .xs-portfolio-grid-item END -->
+          <div
+            class="
+              xs-portfolio-grid-item
+              category3
+              grid-item
+              all
+              wow
+              fadeInRight
+            "
+            data-wow-duration="1.5s"
+            data-wow-delay="300ms"
+          >
+            <a href="coconutsugar"
+            >
+              <img src="/assets/images/sugar_potrait.JPG" style="height: 490px; object-fit: cover" alt="" />
+              <div class="single-project-content">
+                <div class="xs-image-popup-icon">
+                  <i class="icon icon-plus"></i>
+                </div>
+                <h3 class="xs-single-title">Coconut Sugar</h3>
                 <p>
                   Together also created. Meat winged seas waters herb saw he.
                   Second female void.
@@ -629,18 +765,17 @@
             </div>
           </div>
           <!-- .xs-portfolio-grid-item END -->
-          <div class="xs-portfolio-grid-item category4 grid-item all wow fadeInUp"
+          <!-- <div
+            class="xs-portfolio-grid-item category4 grid-item all wow fadeInUp"
             data-wow-duration="1.5s"
-            data-wow-delay="300ms">
+            data-wow-delay="300ms"
+          >
             <a
               href="#popup_4"
               class="xs-single-portfolio-item xs-image-popup"
               data-effect="mfp-zoom-in"
             >
-              <img
-                src="/assets/images/our-project/project_4.jpg"
-                alt=""
-              />
+              <img src="/assets/images/our-project/project_4.jpg" alt="" />
               <div class="single-project-content">
                 <div class="xs-image-popup-icon">
                   <i class="icon icon-plus"></i>
@@ -651,7 +786,7 @@
                   Second female void.
                 </p>
               </div> </a
-            ><!-- .xs-single-portfolio-item END -->
+            >
             <div id="popup_4" class="container xs-gallery-popup-item mfp-hide">
               <div class="row">
                 <div class="col-lg-5 xs-padding-0">
@@ -719,8 +854,7 @@
                 </div>
               </div>
             </div>
-          </div>
-          <!-- .xs-portfolio-grid-item END -->
+          </div> -->
         </div>
 
         <!-- <div class="row">

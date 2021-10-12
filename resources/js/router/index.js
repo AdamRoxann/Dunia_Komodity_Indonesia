@@ -5,6 +5,7 @@ import Contact from '../pages/menu/Contact.vue'
 import Gallery from '../pages/menu/Gallery.vue'
 import GreenBean from '../pages/coffee/GreenBean.vue'
 import Sugar from '../pages/sugar/Sugar.vue'
+import Spices from '../pages/spices/Spices.vue'
 import PalmSugar from '../pages/sugar/PalmSugar.vue'
 import SugarBlock from '../pages/sugar/SugarBlock.vue'
 import Gayo from '../pages/coffee/Gayo.vue'
@@ -51,6 +52,11 @@ export default {
             path: '/coconutsugar',
             name: 'coconutsugar',
             component: Sugar,
+        },
+        {
+            path: '/spices',
+            name: 'spices',
+            component: Spices,
         },
         {
             path: '/greenbeans/gayo',

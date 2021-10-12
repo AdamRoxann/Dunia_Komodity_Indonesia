@@ -30,12 +30,17 @@
 <section class="xs-header-middle v2" style="padding: 0px 0;">
     <div class="row logo justify-content-between"  style="width: 100%;">
         <div class="col-md-12 d-flex justify-content-center" style="padding-right: 300px">
-            <div class="col-md-2 text-center ml-5 p-0">
+            <div class="col-md-2 ml-5 text-center p-0">
                 <a href="/">
                     <img src="/assets/images/logo.png" alt="logo">
                 </a>
             </div>
-                <b class="py-5 mx-auto" style="font-size: 30px; color: black; font-family: 'Poppins', sans-serif; font-weight: 400; float: right">Indonesian Coffee and Coconut Sugar Specialist</b>
+            <!-- <div class="typewriter">
+  <h1>The cat and the hat.</h1>
+</div> -->
+            <b id="type" class="py-5 mx-auto" style="font-size: 30px; color: black; font-family: 'Poppins', sans-serif; font-weight: 600; float: right">Indonesian Commodity Specialist</b>
+                <!-- <div class="typewriter"><b id="type" class="py-5 mx-auto" style="font-size: 30px; color: black; font-family: 'Poppins', sans-serif; font-weight: 400; float: right">Indonesian Commodity Specialist</b></div> -->
+                
         </div>
     </div>
 	<div class="container">
@@ -62,8 +67,8 @@
                     </div>
 
                     <div class="nav-menus-wrapper clearfix">
-                        <ul class="nav-menu" style="width: 100%">
-                            <li class="active"><a href="/">Home</a></li>
+                        <ul class="nav-menu" style="width: 100%;">
+                            <li class="active" ><a href="/">Home</a></li>
                             <!-- <li class="dropdown"><a href="#" class="dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Products</a>
                                
                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -75,8 +80,8 @@
                             <li><a href="#">Products</a>
                                 <ul class="nav-dropdown">
                                     <li><router-link :to="{ name: 'greenbeans' }">Green Beans Coffee</router-link> </li>
-                                    <li><router-link :to="{ name: 'coconutsugar' }">Coconut Sugar</router-link>
-                                    </li>
+                                    <li><router-link :to="{ name: 'coconutsugar' }">Coconut Sugar</router-link></li>
+                                    <li><router-link :to="{ name: 'spices' }">Spices</router-link></li>
                                     <!-- <li><a href="single-service-v1.html">single service one</a></li>
                                     <li><a href="single-service-v2.html">single service two</a></li> -->
                                 </ul>
@@ -87,7 +92,7 @@
                                 <router-link :to="{name: 'contact'}">Contact Us</router-link>
                             </li>
                             <li><router-link :to="{name: 'about'}">About Us</router-link></li>
-                            <li><a href="">How to order?</a></li>
+                            <!-- <li><a href="">How to order?</a></li> -->
                         </ul>
                         <div class="header-nav-right-info align-to-right">
                             <label><i class="icon icon-phone3"></i> <a style="color: white" href="tel:081260774365">+6281260774365</a></label>
