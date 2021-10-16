@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" href="/assets/images/logo.png">
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <title>PT. DKI</title>
+    <title>PT. DUNIA KOMODITI INDONESIA</title>
     <link rel="stylesheet" href="/assets/css/fontawesome-min.css">
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/xsIcon.css">

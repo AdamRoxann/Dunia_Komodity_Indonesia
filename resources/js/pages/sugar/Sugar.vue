@@ -13,7 +13,7 @@
               <h2 class="banner-inner-title">Our Coconut Sugar</h2>
               <ul class="xs-breadcumb">
                 <li>
-                  <router-link :to="{ name: 'home' }"> Home / </router-link>
+                  <router-link :to="{ name: 'home' }" style="color: #66442C"> Home / </router-link>
                   Coconut Sugar
                 </li>
               </ul>
@@ -32,7 +32,7 @@
             data-wow-delay="200ms">
             <div class="service-sidebar">
               <div class="widgets">
-                <h3 class="widget-title"><span></span> Product</h3>
+                <h3 class="widget-title" style="color: #66442C"><span></span> Product</h3>
                 <ul class="services-link-item">
                   <li class="active"><a style="background-color: #66442C" class="no_dropdown" href="#">Our Coconut Sugar</a></li>
                   <li>
@@ -114,25 +114,7 @@
                   </h3>
                 </div>
               </div>
-              <div class="col-lg-12 col-md-6">
-                <div class="widgets" style="text-align: center">
-                  <h3 class="widget-title">
-                    <span>Products</span> Certificate
-                  </h3>
-                  <ul class="brochures-list">
-                    <li>
-                      <a href="#"
-                        ><i class="fa fa-file-pdf-o"></i>Coconut-sugar.view</a
-                      >
-                    </li>
-                    <li>
-                      <a href="#"
-                        ><i class="fa fa-file-word-o"></i>Download .doc</a
-                      >
-                    </li>
-                  </ul>
-                </div>
-              </div>
+              
               <!-- <div class="col-lg-4 col-md-6">
                         <div class="single-services-item">
                             <img src="/assets/images/services/service_style_7.jpg" alt="">
@@ -178,6 +160,68 @@
             </div>
             <!-- row end-->
           </div>
+          <div class="col-lg-12 col-md-6">
+                <div class="widgets" style="text-align: center">
+                  <h3 class="widget-title">
+                    <span>Products</span> Certificate
+                  </h3>
+                  <br>
+                  <!-- <ul class="brochures-list">
+                    <li>
+                      <img src="/assets/images/halal.png" alt="" width="75">
+                    </li>
+                    <li>
+                      <a href="#"
+                        ><i class="fa fa-file-word-o"></i>Download .doc</a
+                      >
+                    </li>
+                  </ul>
+                  <ul class="brochures-list">
+                    <li>
+                      <a href="#"
+                        ><i class="fa fa-file-pdf-o"></i>Coconut-sugar.view</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#"
+                        ><i class="fa fa-file-word-o"></i>Download .doc</a
+                      >
+                    </li>
+                  </ul>
+                  <ul class="brochures-list">
+                    <li>
+                      <a href="#"
+                        ><i class="fa fa-file-pdf-o"></i>Coconut-sugar.view</a
+                      >
+                    </li>
+                    <li>
+                      <a href="#"
+                        ><i class="fa fa-file-word-o"></i>Download .doc</a
+                      >
+                    </li>
+                  </ul> -->
+                  <div class="row mt-2">
+                    <div class="mx-auto">
+                      <img src="/assets/images/halal.png" width="75" alt="">
+                    </div>
+                    <div class="mx-auto">
+                      <img src="/assets/images/hacpp.png" width="75" alt="">
+                    </div>
+                    <div class="mx-auto">
+                      <img src="/assets/images/bpom.png" width="75" alt="">
+                    </div>
+                    <div class="mx-auto">
+                      <img src="/assets/images/fda.png" width="75" alt="">
+                    </div>
+                    <div class="mx-auto">
+                      <img src="/assets/images/usda.png" width="75" alt="">
+                    </div>
+                    <div class="mx-auto">
+                      <img src="/assets/images/eu_organic.png" width="75" alt="">
+                    </div>
+                  </div>
+                </div>
+              </div>
           <!-- col end-->
         </div>
         <!-- row end-->

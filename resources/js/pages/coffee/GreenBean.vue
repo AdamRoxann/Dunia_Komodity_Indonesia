@@ -135,8 +135,10 @@
                   <router-link :to="{name: 'gayo'}">
                     <img
                       class="products-detail-images zoom"
-                      src="/assets/images/arabica_gayo_choice.jpeg"
-                      alt=""
+                      src="/assets/images/coffee_beans/gayo/2.jpeg"
+                      alt="" style="object-fit: cover; display: block;
+  margin-left: auto;
+  margin-right: auto; object-position: 25% 75%;"
                     />
                   </router-link>
                   <h3 class="xs-service-title">
@@ -151,8 +153,10 @@
                   <router-link :to="{name: 'lintong'}">
                     <img
                       class="products-detail-images zoom"
-                      src="/assets/images/arabica_lintong_choice.jpeg"
-                      alt=""
+                      src="/assets/images/coffee_beans/lintong/2.jpeg"
+                      alt="" style="object-fit: cover; display: block;
+  margin-left: auto;
+  margin-right: auto;"
                     />
                   </router-link>
                   <h3 class="xs-service-title">
@@ -167,8 +171,10 @@
                   <router-link :to="{name: 'kerinci'}">
                     <img
                       class="products-detail-images zoom"
-                      src="/assets/images/arabica_kerinci_choice.jpeg"
-                      alt=""
+                      src="/assets/images/coffee_beans/kerinci/2.jpeg"
+                      alt="" style="object-fit: cover; display: block;
+  margin-left: auto;
+  margin-right: auto; object-position: 25% 75%;"
                     />
                   </router-link>
                   <h3 class="xs-service-title">
@@ -183,8 +189,10 @@
                   <router-link :to="{name: 'sidikalang'}">
                     <img
                       class="products-detail-images zoom"
-                      src="/assets/images/services/service_style_8.jpg"
-                      alt=""
+                      src="/assets/images/coffee_beans/sidikalang/2.jpeg"
+                      alt="" style="object-fit: cover; display: block;
+  margin-left: auto;
+  margin-right: auto; object-position: 45% 55%;"
                     />
                   </router-link>
                   <h3 class="xs-service-title">
@@ -199,8 +207,10 @@
                   <router-link :to="{name: 'mandailing'}">
                     <img
                       class="products-detail-images zoom"
-                      src="/assets/images/services/service_style_8.jpg"
-                      alt=""
+                      src="/assets/images/coffee_beans/mandailing/2.jpeg"
+                      alt="" style="object-fit: cover; display: block;
+  margin-left: auto;
+  margin-right: auto; object-position: 45% 55%;"
                     />
                   </router-link>
                   <h3 class="xs-service-title">
@@ -210,7 +220,7 @@
                   </h3>
                 </div>
               </div>
-              <div class="col-lg-12 col-md-6">
+              <!-- <div class="col-lg-12 col-md-6">
                 <div class="widgets" style="text-align: center">
                   <h3 class="widget-title">
                     <span>Products</span> Certificate
@@ -228,7 +238,7 @@
                     </li>
                   </ul>
                 </div>
-              </div>
+              </div> -->
             </div>
             <!-- row end-->
           </div>

@@ -35,7 +35,7 @@
                 <li class="filter" data-filter=".category1">
                   Green Beans Coffee
                 </li>
-                <li class="filter" data-filter=".category2">Coconut Sugar</li>
+                <li class="filter" data-filter=".category3">Coconut Sugar</li>
                 <!-- <li class="filter" data-filter=".category3">Watering</li>
                         <li class="filter" data-filter=".category4">Video</li> -->
               </ul>
@@ -52,7 +52,7 @@
               data-effect="mfp-zoom-in"
             >
               <img
-                src="/assets/images/our-project/project_1.jpg"
+                src="/assets/images/arabica_gayo.jpeg" style="height: 490px;"
                 alt=""
               />
               <div class="single-project-content">
@@ -136,95 +136,7 @@
           </div>
           <!-- .xs-portfolio-grid-item END -->
 
-          <div class="xs-portfolio-grid-item category2 grid-item all">
-            <a
-              href="#popup_2"
-              class="xs-single-portfolio-item xs-image-popup"
-              data-effect="mfp-zoom-in"
-            >
-              <img
-                src="/assets/images/our-project/project_3.jpg"
-                alt=""
-              />
-              <div class="single-project-content">
-                <div class="xs-image-popup-icon">
-                  <i class="icon icon-plus"></i>
-                </div>
-                <h3 class="xs-single-title">Planting</h3>
-                <p>
-                  Together also created. Meat winged seas waters herb saw he.
-                  Second female void.
-                </p>
-              </div> </a
-            ><!-- .xs-single-portfolio-item END -->
-            <div id="popup_2" class="container xs-gallery-popup-item mfp-hide">
-              <div class="row">
-                <div class="col-lg-5 xs-padding-0">
-                  <div class="xs-popup-img">
-                    <img
-                      src="/assets/images/our-project/project_1.jpg"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="col-lg-7">
-                  <div class="xs-popup-content">
-                    <h2 class="hidden-title">Project info</h2>
-                    <h3>Garden Caring</h3>
-                    <div class="row">
-                      <div class="col-lg-5">
-                        <ul class="xs-popup-left-content">
-                          <li>
-                            <i class="icon icon-calendar-full"></i>
-                            <label>Project date</label>
-                            <span>22 jan 2018</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-tags"></i>
-                            <label>Category</label>
-                            <span>Garden care, Garden</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-user2"></i>
-                            <label>Client</label>
-                            <span>Mr. Jordan, Newyork</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-invest"></i>
-                            <label>Project value</label>
-                            <span>$ 500</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-map-marker2"></i>
-                            <label>Location</label>
-                            <span>76/A, Green lawn, Newyork City </span>
-                          </li>
-                        </ul>
-                      </div>
-                      <div class="col-lg-7">
-                        <div class="xs-popup-right-content">
-                          <p>
-                            Darkness dominion dominion her body creature appear
-                            make replenish. Bring shall him waters saw creepeth
-                            creepeth land divided.
-                          </p>
-                          <blockquote>
-                            “Each which life god all living form fruitful their
-                            fowl shed a stars he left”
-                          </blockquote>
-                          <p>
-                            Fowl she'd a stars he let. Creepeth deep sixth you
-                            is signs creature. Earth divide great whales.
-                          </p>
-                          <a href="#" class="xs-btn">PROJECT LINK</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
           <!-- .xs-portfolio-grid-item END -->
           <div class="xs-portfolio-grid-item category3 grid-item all">
             <a
@@ -233,7 +145,7 @@
               data-effect="mfp-zoom-in"
             >
               <img
-                src="/assets/images/our-project/project_2.jpg"
+                src="/assets/images/sugar_potrait.JPG" style="height: 490px; object-fit: cover" 
                 alt=""
               />
               <div class="single-project-content">
@@ -316,95 +228,6 @@
             </div>
           </div>
           <!-- .xs-portfolio-grid-item END -->
-          <div class="xs-portfolio-grid-item category4 grid-item all">
-            <a
-              href="#popup_4"
-              class="xs-single-portfolio-item xs-image-popup"
-              data-effect="mfp-zoom-in"
-            >
-              <img
-                src="/assets/images/our-project/project_4.jpg"
-                alt=""
-              />
-              <div class="single-project-content">
-                <div class="xs-image-popup-icon">
-                  <i class="icon icon-plus"></i>
-                </div>
-                <h3 class="xs-single-title">Planting</h3>
-                <p>
-                  Together also created. Meat winged seas waters herb saw he.
-                  Second female void.
-                </p>
-              </div> </a
-            ><!-- .xs-single-portfolio-item END -->
-            <div id="popup_4" class="container xs-gallery-popup-item mfp-hide">
-              <div class="row">
-                <div class="col-lg-5 xs-padding-0">
-                  <div class="xs-popup-img">
-                    <img
-                      src="/assets/images/our-project/project_1.jpg"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="col-lg-7">
-                  <div class="xs-popup-content">
-                    <h2 class="hidden-title">Project info</h2>
-                    <h3>Garden Caring</h3>
-                    <div class="row">
-                      <div class="col-lg-5">
-                        <ul class="xs-popup-left-content">
-                          <li>
-                            <i class="icon icon-calendar-full"></i>
-                            <label>Project date</label>
-                            <span>22 jan 2018</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-tags"></i>
-                            <label>Category</label>
-                            <span>Garden care, Garden</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-user2"></i>
-                            <label>Client</label>
-                            <span>Mr. Jordan, Newyork</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-invest"></i>
-                            <label>Project value</label>
-                            <span>$ 500</span>
-                          </li>
-                          <li>
-                            <i class="icon icon-map-marker2"></i>
-                            <label>Location</label>
-                            <span>76/A, Green lawn, Newyork City </span>
-                          </li>
-                        </ul>
-                      </div>
-                      <div class="col-lg-7">
-                        <div class="xs-popup-right-content">
-                          <p>
-                            Darkness dominion dominion her body creature appear
-                            make replenish. Bring shall him waters saw creepeth
-                            creepeth land divided.
-                          </p>
-                          <blockquote>
-                            “Each which life god all living form fruitful their
-                            fowl shed a stars he left”
-                          </blockquote>
-                          <p>
-                            Fowl she'd a stars he let. Creepeth deep sixth you
-                            is signs creature. Earth divide great whales.
-                          </p>
-                          <a href="#" class="xs-btn">PROJECT LINK</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
           <!-- .xs-portfolio-grid-item END -->
         </div>
 

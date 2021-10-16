@@ -38,27 +38,25 @@
                   <span>Arabica</span> Mandailing
                 </h2>
                 <div class="list-image-arabica" style="position: relative">
-                  <div class="col-5">
+                  <div class="col-4">
                     <img
-                      class="float-left"
-                      src="/assets/images/arabica_gayo_landscape.jpeg"
-                      style=""
+                      src="/assets/images/coffee_beans/mandailing/1.jpeg"
+                      style="width: 100%; object-fit: cover; object-position: 5% 95%; border-radius: 20px"
                       alt=""
                     />
                   </div>
-                  <div class="col-3">
+                  <div class="col-4">
                     <img
-                      class="ml-auto mr-3"
-                      src="/assets/images/arabica_gayo2.JPG"
-                      style=""
+                      src="/assets/images/coffee_beans/mandailing/2.jpeg"
+                      style="width: 100%; object-fit: cover; object-position: 20% 80%; border-radius: 20px"
                       alt=""
                     />
                   </div>
                   <div class="col-4">
                     <img
                       class=""
-                      src="/assets/images/arabica_gayo_landscape2.jpeg"
-                      style=""
+                      src="/assets/images/coffee_beans/mandailing/3.jpeg"
+                      style="width: 100%; object-fit: cover; object-position: 20% 80%; border-radius: 20px"
                       alt=""
                     />
                   </div>

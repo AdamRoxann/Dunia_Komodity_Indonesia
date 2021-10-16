@@ -81,12 +81,13 @@
                                 <ul class="nav-dropdown">
                                     <li><router-link :to="{ name: 'greenbeans' }">Green Beans Coffee</router-link> </li>
                                     <li><router-link :to="{ name: 'coconutsugar' }">Coconut Sugar</router-link></li>
-                                    <li><router-link :to="{ name: 'spices' }">Spices</router-link></li>
+                                    <!-- <li><router-link :to="{ name: 'spices' }">Spices</router-link></li> -->
                                     <!-- <li><a href="single-service-v1.html">single service one</a></li>
                                     <li><a href="single-service-v2.html">single service two</a></li> -->
                                 </ul>
                             </li>
-                            <li><router-link :to="{ name: 'blog' }">Blog</router-link>
+                            <li><router-link :to="{ name: 'blog' }">News</router-link>
+                            <li><a href="/gallery">Gallery</a>
                             </li>
                             <li>
                                 <router-link :to="{name: 'contact'}">Contact Us</router-link>
